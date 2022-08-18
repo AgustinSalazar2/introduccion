@@ -92,4 +92,4 @@ numeros(20,1);
 const sumar = (num1,num2) => num1+num2;
 console.log(sumar(8,3));
 
-//Ejercicio: 
+//Ejercicio2: 
